@@ -1,5 +1,5 @@
 <h1>Hello, I'm Kevin! </br></h1>
-<p>Self Taught Programmer, Aspiring IT Proffesional, Technology Enthusist</p>
+<p>Self Taught Programmer, Aspiring IT Professional, Technology Enthusist</p>
 
 <h2>💻Software Development Projects:</h2>
 
