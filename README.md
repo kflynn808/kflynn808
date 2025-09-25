@@ -2,7 +2,7 @@
 <p>Self Taught Programmer, Aspiring IT Professional, Technology Enthusist</p>
 
 <h2>💻 Software Development Projects:</h2>
-<p>These are personal projects that I make to get better at programming. <b>Use them at your own risk</b></p>
+<p>These are personal projects that I made to get better at programming. <b>Use them at your own risk</b></p>
 
 - <b>Python</b>
   - <b>[Python Password Generator](https://github.com/kflynn808/python-password-generator)</b>  
